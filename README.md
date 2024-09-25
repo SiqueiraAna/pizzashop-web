@@ -1,5 +1,5 @@
 ## Projeto PizzaShop 🚀
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+Esse projeto está sendo desenvolvido com as seguintes tecnologias:
 - ReactJS
 - React Router DOM
 - React Hook Form
